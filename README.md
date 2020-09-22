@@ -1,11 +1,17 @@
 # flaskblog
-Python Flask Tutorial: Full-Featured Web App 
-[https://youtu.be/MwZwr5Tvyxo]
+### Python Flask Tutorial: Full-Featured Web App 
+### [https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH]
 
 Making a Full-Featured Blog Web App
--2: Jinja Templating
--3: Bootstrap
--4: SQLite Database
--5: Package
--6: User Authentication
--7: User Profile and Profile picture
+[x] Jinja Templating
+[x] flask_wtf - Form
+[x] Bootstrap
+[x] SQLite Database
+[x] Package
+[x] flask_login (User Authentication)
+[x] flask_wtf.file (Profile picture) & Update Profile
+[ ] CRUD Blog-Post
+[ ] Pagination
+[ ] Email & Password Reset
+[ ] Custom Error Pages
+[ ] ...
