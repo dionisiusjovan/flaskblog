@@ -12,5 +12,6 @@ Making a Full-Featured Blog Web App using Flask Web-Framework (Python) and Boots
 - [x] CRUD Blog-Post  
 - [x] Pagination  
 - [ ] Email & Password Reset  
+- [ ] 'BluePrints'
 - [ ] Custom Error Pages  
-- [ ] ...  
+
