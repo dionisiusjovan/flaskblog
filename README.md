@@ -10,7 +10,7 @@ Making a Full-Featured Blog Web App using Flask Web-Framework (Python) and Boots
 - [x] flask_login (User Authentication)  
 - [x] flask_wtf.file (Profile picture) & Update Profile  
 - [x] CRUD Blog-Post  
-- [ ] Pagination  
+- [x] Pagination  
 - [ ] Email & Password Reset  
 - [ ] Custom Error Pages  
 - [ ] ...  
