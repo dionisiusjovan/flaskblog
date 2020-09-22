@@ -5,7 +5,7 @@ Making a Full-Featured Blog Web App using Flask Web-Framework (Python) and Boots
 - [x] Jinja Templating  
 - [x] flask_wtf - Form  
 - [x] Bootstrap  
-- [x] SQLite Database  
+- [x] SQLite Database - SQLAlchemy  
 - [x] Package  
 - [x] flask_login (User Authentication)  
 - [x] flask_wtf.file (Profile picture) & Update Profile  
