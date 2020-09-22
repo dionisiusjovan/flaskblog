@@ -10,7 +10,7 @@ Making a Full-Featured Blog Web App
 - [x] Package  
 - [x] flask_login (User Authentication)  
 - [x] flask_wtf.file (Profile picture) & Update Profile  
-- [ ] CRUD Blog-Post  
+- [x] CRUD Blog-Post  
 - [ ] Pagination  
 - [ ] Email & Password Reset  
 - [ ] Custom Error Pages  
